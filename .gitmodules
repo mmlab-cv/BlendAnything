@@ -1,0 +1,3 @@
+[submodule "md-paper"]
+	path = md-paper
+	url = https://github.com/LuCazzola/md-paper.git
