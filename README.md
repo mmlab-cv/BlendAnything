@@ -10,7 +10,7 @@
 [![Release](https://img.shields.io/badge/Release-1.0.0-green.svg)](https://github.com/mmlab-cv/BlendAnything)
 
 **[Luca Cazzola](https://scholar.google.com/citations?user=fsnsqoYAAAAJ)<sup>1</sup> ·
-[Giulia Martinelli](https://scholar.google.com/citations?user=WG3OkQ4AAAAJ)<sup>1,2</sup> ·
+[Giulia Martinelli](https://giuli13.github.io/)<sup>1,2</sup> ·
 [Nicola Conci](https://scholar.google.com/citations?user=mR1GK28AAAAJ)<sup>1,2</sup>**
 <br><sub><sup>1</sup> University of Trento · <sup>2</sup> CNIT · [MMLab](https://github.com/mmlab-cv)</sub>
 
