@@ -1,0 +1,12 @@
+# Server dependencies
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9   # required for FastAPI multipart/form-data uploads
+numpy>=1.24.0
+setuptools<82
+# Motion installs flat modules (BVH.py, Animation.py, Quaternions.py, …) at site-packages root
+# Install with: pip install --no-build-isolation git+https://github.com/inbar-2344/Motion.git
+
+# Blender plugin dependency (install into Blender's Python)
+# <blender_python> -m pip install requests
+requests>=2.31.0

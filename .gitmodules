@@ -1,0 +1,5 @@
+[submodule "neural_motion_blending"]
+	path = neural_motion_blending
+	url = https://github.com/mmlab-cv/neural_motion_blending.git
+	branch = main
+	update = checkout

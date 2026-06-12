@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# IDE / editor metadata
+.vscode/
+.vscode-server
+.windsurf-server
+.cursor-server
+.idea/
+.copilot/
+
+# Lightning Studio / workspace internals
+.lightning_studio/
+.claude/
+.claude.json
+.wget-hsts
+
+# Temp BVH exports created by the plugin
+nla_src_*.bvh
+nla_result_*.bvh
+.bvh_cache/
