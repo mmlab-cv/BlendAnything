@@ -37,7 +37,7 @@ const publication: Publication = {
   venue: "SIGGRAPH (Poster) • Special Interest Group on Computer Graphics and Interactive Techniques",
   year:  "2026",
 
-  paper:         COMING_SOON,
+  paper:         "https://dl.acm.org/doi/10.1145/3799825.3818769",
   pdf:           undefined,
   code:          "https://github.com/mmlab-cv/BlendAnything",
   supplementary: COMING_SOON,
