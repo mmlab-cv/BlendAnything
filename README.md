@@ -3,13 +3,13 @@
 <img src="media/logo.png" alt="BlendAnything logo" width="25%">
 
 **Neural motion blending & retargeting — straight from Blender's NLA Editor.**
-
-[![Venue](https://img.shields.io/badge/SIGGRAPH-Posters%202026-red.svg)](https://mmlab-cv.github.io/BlendAnything/)
+https://dl.acm.org/doi/10.1145/3799825.3818769
+[![Venue](https://img.shields.io/badge/SIGGRAPH-Posters%202026-red.svg)](https://dl.acm.org/doi/10.1145/3799825.3818769)
 [![Project Website](https://img.shields.io/badge/Project-Website-blue.svg)](https://mmlab-cv.github.io/BlendAnything/)
 [![Blender](https://img.shields.io/badge/Blender-4.5.4%20LTS-orange.svg?logo=blender&logoColor=white)](https://www.blender.org/)
 [![Release](https://img.shields.io/badge/Release-1.0.0-green.svg)](https://github.com/mmlab-cv/BlendAnything)
 
-**[Luca Cazzola](https://scholar.google.com/citations?user=fsnsqoYAAAAJ)<sup>1</sup> ·
+**[Luca Cazzola](https://scholar.google.com/citations?user=fsnsqoYAAAAJ)<sup>1</sup>
 [Giulia Martinelli](https://giuli13.github.io/)<sup>1,2</sup> ·
 [Nicola Conci](https://scholar.google.com/citations?user=mR1GK28AAAAJ)<sup>1,2</sup>**
 <br><sub><sup>1</sup> University of Trento · <sup>2</sup> CNIT · [MMLab](https://github.com/mmlab-cv)</sub>
@@ -45,13 +45,13 @@ back into your scene as a ready-to-use NLA strip.
 
 #### Milestones
 
+* **19/07/2026** — [Paper](https://dl.acm.org/doi/10.1145/3799825.3818769) is out!
 * **12/06/2026** — First code release!
 
 #### Coming soon
 
-* Poster abstract
+* Model jointly trained on Humans & Animals (for crazy motion transfer!)
 * Better models (for better blending 😉)
-
 
 <br>
 
@@ -181,5 +181,19 @@ licenses and distribution terms of their original sources.
 If you use this work, please cite the SIGGRAPH Posters 2026 paper.
 
 ```bash
-COMING SOON!
+@inproceedings{10.1145/3799825.3818769,
+    author = {Cazzola, Luca and Martinelli, Giulia and Conci, Nicola},
+    title = {BlendAnything: A Blender Plugin for Cross-Topology Motion Blending},
+    year = {2026},
+    isbn = {9798400725487},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3799825.3818769},
+    doi = {10.1145/3799825.3818769},
+    booktitle = {Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Posters},
+    articleno = {18},
+    numpages = {3},
+    keywords = {Character Animation, Motion Blending, Motion Retargeting},
+    series = {SIGGRAPH Posters '26}
+}
 ```
