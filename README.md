@@ -3,7 +3,7 @@
 <img src="media/logo.png" alt="BlendAnything logo" width="25%">
 
 **Neural motion blending & retargeting — straight from Blender's NLA Editor.**
-https://dl.acm.org/doi/10.1145/3799825.3818769
+
 [![Venue](https://img.shields.io/badge/SIGGRAPH-Posters%202026-red.svg)](https://dl.acm.org/doi/10.1145/3799825.3818769)
 [![Project Website](https://img.shields.io/badge/Project-Website-blue.svg)](https://mmlab-cv.github.io/BlendAnything/)
 [![Blender](https://img.shields.io/badge/Blender-4.5.4%20LTS-orange.svg?logo=blender&logoColor=white)](https://www.blender.org/)
